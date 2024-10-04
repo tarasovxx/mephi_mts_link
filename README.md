@@ -10,7 +10,7 @@
 
 
 # Пример решения
-
+![Демонстрация работы](data/screencast.gif)
 
 # Установка
 - `git clone https://github.com/tarasovxx/mephi_mts_link`
